@@ -27,6 +27,3 @@ npm run dev
 ```sh
 npm run build
 ```
-#� �v�u�e�-�t�o�d�o�-�l�i�s�t�
-�
-�
